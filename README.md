@@ -20,7 +20,7 @@
             that maybe crated.
              
             then type ./Server (for running the server)
-            then type ./client(for running the client)
+            then type ./client **"your ip adress"** (for running the client)
 
    ## pics of running:
 
