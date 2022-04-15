@@ -2,9 +2,11 @@
 
 
 ## about the project
-  we were asked to build a server and client that will fuction like a shell
+  we were asked to build a server and client that will fuction like a "shell"
   after connectig to the server we could type commands and then the server "shell"
   will opreate accordignly.
+  
+  for more details open file osex1.pdf
     
   
  ## how to run
