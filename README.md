@@ -1,8 +1,4 @@
 # Ex1_OS
-(recommended )
-link for github:
-https://github.com/HarelGiladi/Ex3_OS
-
 
 
 ## about the project
